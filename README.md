@@ -6,11 +6,11 @@ The Sheet Counter Project is an innovative computer vision application designed 
 ## How to Run the Sheet Counter code:
 Follow these steps to set up and run the chatbot:
 
-###1. Create a New Folder:
+### 1. Create a New Folder:
 Open VS Code and create a new folder for the project.
-###2. Open VS Code and create a new folder for the project.
+### 2. Open VS Code and create a new folder for the project.
 Within the new folder, create and activate a virtual environment.
-###3. Upload Project Files:
+### 3. Upload Project Files:
 Upload the following files into the folder:
-*sheet_counter.py
-*requirements.txt
+* sheet_counter.py
+* requirements.txt
