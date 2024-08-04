@@ -14,3 +14,14 @@ Within the new folder, create and activate a virtual environment.
 Upload the following files into the folder:
 * sheet_counter.py
 * requirements.txt
+### 4. Install Required Packages:
+Install all required packages by running the following command:
+**pip install -r requirements.txt**
+### 5. Run the Streamlit Application:
+Open a terminal and run the following command to start the Streamlit chatbot interface:
+**streamlit run query_ui.py**
+### 6. Upload an Image
+* A web browser will open displaying the Streamlit **Sheet Counter** interface.
+* Upload an image of a sheet stack in JPEG, JPG, or PNG format.
+### 7. View Results
+The application will display the **edge-detected image** and the **estimated number of sheets** in the stack.
