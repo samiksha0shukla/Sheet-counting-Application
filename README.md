@@ -24,4 +24,4 @@ Open a terminal and run the following command to start the Streamlit chatbot int
 * A web browser will open displaying the Streamlit **Sheet Counter** interface.
 * Upload an image of a sheet stack in JPEG, JPG, or PNG format.
 ### 7. View Results
-The application will display the **edge-detected image** and the **estimated number of sheets** in the stack.
+The application will display the **uploaded and edge-detected image for real-time feedback** and the **estimated number of sheets** in the stack.
