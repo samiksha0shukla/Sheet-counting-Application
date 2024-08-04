@@ -19,7 +19,7 @@ Install all required packages by running the following command:
 **pip install -r requirements.txt**
 ### 5. Run the Streamlit Application:
 Open a terminal and run the following command to start the Streamlit chatbot interface:
-**streamlit run query_ui.py**
+**streamlit run sheet_counter.py**
 ### 6. Upload an Image
 * A web browser will open displaying the Streamlit **Sheet Counter** interface.
 * Upload an image of a sheet stack in JPEG, JPG, or PNG format.
